@@ -1,0 +1,1 @@
+ D:\\Programming\\mobile_devolopment\\Flutter_Dart\\Flutter\\1_Summer\ Training\\flutter_task_1\\.dart_tool\\flutter_build\\6890f6af2fed2db185718348e8087156\\native_assets.yaml: 

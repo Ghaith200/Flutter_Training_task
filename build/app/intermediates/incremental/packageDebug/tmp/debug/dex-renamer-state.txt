@@ -1,0 +1,13 @@
+#Sun Sep 01 11:39:10 EEST 2024
+base.0=D\:\\Programming\\mobile_devolopment\\Flutter_Dart\\Flutter\\1_Summer Training\\flutter_task_1\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\Programming\\mobile_devolopment\\Flutter_Dart\\Flutter\\1_Summer Training\\flutter_task_1\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\Programming\\mobile_devolopment\\Flutter_Dart\\Flutter\\1_Summer Training\\flutter_task_1\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.3=D\:\\Programming\\mobile_devolopment\\Flutter_Dart\\Flutter\\1_Summer Training\\flutter_task_1\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=10/classes.dex
+path.3=1/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
